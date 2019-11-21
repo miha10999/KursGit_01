@@ -8,3 +8,9 @@ public void Print()
 println("Распечатать содержимое")
 
 )
+
+public void Print(int number)
+(
+println("Распечатать страницу №"+ number)
+
+)
