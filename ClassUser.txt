@@ -1,0 +1,4 @@
+public ClassUsers ()
+{
+	println("Работа,работа,работа!")
+}
