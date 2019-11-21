@@ -1,0 +1,4 @@
+public PrivateClass ()
+{
+	println("Гагарин вперед!")
+}
