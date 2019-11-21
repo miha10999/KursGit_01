@@ -2,3 +2,9 @@ public PrivateClass ()
 {
 	println("Гагарин вперед!")
 }
+
+public void Print()
+(
+println("Распечатать содержимое")
+
+)
